@@ -1,4 +1,4 @@
-package EC
+package My
 
 import "strings"
 
